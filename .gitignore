@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Compiled source
+__pycache__/
+*.pyc
+*.pyo
+
+# Database
+*.db
+
+# Others
+.DS_Store
+*.log
