@@ -1,0 +1,33 @@
+{
+    "Sunday": {
+        "BreakFast": {
+            "Main Dish": ["Sev Upma", "Coconut Chutney"],
+            "Egg / Cereals": "Bacon and eggs",
+            "Sprouts": "Orange juice",
+            "Tea and Coffee": "Tea",
+            "Fruit": "Banana",
+            "Milk": "Raw"
+        },
+        "Lunch": {
+            "Dry": "Gobi",
+            "Gravy": "Rajma",
+            "Sp Rice": "Veg biryani",
+            "India Bread": "Roti",
+            "Pickle": "Mix Pickle",
+            "Papad": "Papad",
+            "Salad": "Salad",
+            "Plain Rice": "Steam Rice",
+            "Extra": "Paneer Manchurian"
+        }
+    },
+    "Monday": {
+        "BreakFast": {
+            "Main Dish": ["Poha", "Tomato Chutney"],
+            "Egg / Cereals": "Omelette",
+            "Sprouts": "Apple juice",
+            "Tea and Coffee": "Coffee",
+            "Fruit": "Orange",
+            "Milk": "Skimmed"
+        }
+    }
+}
